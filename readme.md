@@ -16,8 +16,8 @@ This project explores the potential for identifiaction stock market regime and p
    This notebook focuses on developing a model for predicting market movements.
 
    It include:
-        - Training and evaluating different machine learning models on the prepared data.
-        - Selecting the best performing model for predicting future market movements.
+   - Training and evaluating different machine learning models on the prepared data.
+   - Selecting the best performing model for predicting future market movements.
 
 ## 3. Backtesting Process (backtesting.ipynb):
    This notebook focuses on evaluating the effectiveness of the prediction model in a simulated trading environment.
