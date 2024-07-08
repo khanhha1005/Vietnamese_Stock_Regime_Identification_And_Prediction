@@ -5,15 +5,16 @@ This project explores the potential for identifiaction stock market regime and p
    This notebook focuses on data acquisition and preprocessing.
    
    It includes steps to:
-        - Download the stock market dataset from the following URL
-        
+        - Download the stock market dataset from the following URL 
         - Clean and prepare the data for further analysis.
+        - This  involve handling data processing.
+        - Perform steps to create financial feature 
         
-        - This might involve handling missing values, formatting timestamps, and feature engineering.
 
+        - 
 ## 2. Prediction Process (prediction.ipynb):
    This notebook focuses on developing a model for predicting market movements.
-   
+
    It include:
         - Training and evaluating different machine learning models on the prepared data.
         - Selecting the best performing model for predicting future market movements.
