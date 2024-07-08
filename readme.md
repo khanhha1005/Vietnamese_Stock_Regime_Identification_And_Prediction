@@ -1,5 +1,5 @@
-# Stock Market Regime Identification and Prediction Projec
-This project explores the potential for identifiaction stock market regime and predicting stock market regimes and backtesting trading strategies based on those predictions. It consists of three Jupyter Notebooks, each focusing on a specific stage of the process:
+# Stock Market Regime Identification and Prediction Project
+This project explores the potential for identifying stock market regimes , predicting stock market regimes and backtesting trading strategies based on those predictions. It consists of three Jupyter Notebooks, each focusing on a specific stage of the process:
 
 ## 1. Identification Process (identification.ipynb):
    This notebook focuses on data preprocessing and identification feature creation
