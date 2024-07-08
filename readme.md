@@ -2,21 +2,21 @@
 This project explores the potential for identifiaction stock market regime and predicting stock market regimes and backtesting trading strategies based on those predictions. It consists of three Jupyter Notebooks, each focusing on a specific stage of the process:
 
 ## 1. Identification Process (identification.ipynb):
-    * This notebook focuses on data acquisition and preprocessing.
+   This notebook focuses on data acquisition and preprocessing.
     * It includes steps to:
         * Download the stock market dataset from the following URL: 
         * Clean and prepare the data for further analysis.
         * This might involve handling missing values, formatting timestamps, and feature engineering.
 
 ## 2. Prediction Process (prediction.ipynb):
-    * This notebook focuses on developing a model for predicting market movements.
-    * It might include:
+   This notebook focuses on developing a model for predicting market movements.
+    * It include:
         * Training and evaluating different machine learning models on the prepared data.
         * Selecting the best performing model for predicting future market movements.
 
 ## 3. Backtesting Process (backtesting.ipynb):
-    * This notebook focuses on evaluating the effectiveness of the prediction model in a simulated trading environment.
-    * It might include:
+   This notebook focuses on evaluating the effectiveness of the prediction model in a simulated trading environment.
+    * It include:
         * Defining trading rules based on the model's predictions.
         * Backtesting the trading strategy on historical data to assess its profitability and risk profile.
         * Analyzing metrics such as win rate, Sharpe Ratio, and Calmar Ratio to evaluate the strategy's performance.
