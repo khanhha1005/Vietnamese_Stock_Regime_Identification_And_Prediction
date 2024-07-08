@@ -1,7 +1,7 @@
 
 This project explores the potential for identifiaction stock market regime and predicting stock market regimes and backtesting trading strategies based on those predictions. It consists of three Jupyter Notebooks, each focusing on a specific stage of the process:
 
-1. **Identification Process (identification.ipynb):**
+1. ** Identification Process (identification.ipynb): **
     * This notebook focuses on data acquisition and preprocessing.
     * It includes steps to:
         * Download the stock market dataset from the following URL: 
