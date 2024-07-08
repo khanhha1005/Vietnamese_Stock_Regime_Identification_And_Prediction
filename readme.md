@@ -5,10 +5,10 @@ This project explores the potential for identifiaction stock market regime and p
    This notebook focuses on data acquisition and preprocessing.
    
    It includes steps to:
-        - Download the stock market dataset from the following URL 
-        - Clean and prepare the data for further analysis.
-        - This  involve handling data processing.
-        - Perform steps to create financial feature 
+   - Download the stock market dataset from the following URL 
+   - Clean and prepare the data for further analysis.
+   - Data processing.
+   - Perform steps to create financial feature 
         
 
         - 
@@ -22,9 +22,9 @@ This project explores the potential for identifiaction stock market regime and p
 ## 3. Backtesting Process (backtesting.ipynb):
    This notebook focuses on evaluating the effectiveness of the prediction model in a simulated trading environment.
    It include:
-        - Defining trading rules based on the model's predictions.
-        - Backtesting the trading strategy on historical data to assess its profitability and risk profile.
-        - Analyzing metrics such as win rate, Sharpe Ratio, and Calmar Ratio to evaluate the strategy's performance.
+   - Defining trading rules based on the model's predictions.
+   - Backtesting the trading strategy on historical data to assess its profitability and risk profile.
+   - Analyzing metrics such as win rate, Sharpe Ratio, and Calmar Ratio to evaluate the strategy's performance.
 
 
 
