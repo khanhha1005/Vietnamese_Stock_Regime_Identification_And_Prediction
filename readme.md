@@ -40,7 +40,6 @@ This project explores the potential for identifiaction stock market regime and p
    ```
 
 3. Download Data:  Download the dataset from the provided URL.:
-   - VNINDEX_labelled.csv :  https://drive.google.com/file/d/19CBuviPjREaGgRJy_II7YrfW7jGGWLB3/view?usp=sharing
    - DNSE_Dataset_OHLC_daily.csv : https://drive.google.com/file/d/1EGi07cvhIIt-Wmdp2HH9u84XZcBouWJa/view?usp=sharing
 4. Run Notebooks: Open each Jupyter Notebook individually and execute the code cells to perform the data preparation, model training, and backtesting analysis.
 Note:
