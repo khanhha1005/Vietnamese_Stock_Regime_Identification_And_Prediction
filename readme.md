@@ -3,23 +3,25 @@ This project explores the potential for identifiaction stock market regime and p
 
 ## 1. Identification Process (identification.ipynb):
    This notebook focuses on data acquisition and preprocessing.
-    * It includes steps to:
-        * Download the stock market dataset from the following URL: 
-        * Clean and prepare the data for further analysis.
-        * This might involve handling missing values, formatting timestamps, and feature engineering.
+   
+   It includes steps to:
+        - Download the stock market dataset from the following URL: 
+        - Clean and prepare the data for further analysis.
+        - This might involve handling missing values, formatting timestamps, and feature engineering.
 
 ## 2. Prediction Process (prediction.ipynb):
    This notebook focuses on developing a model for predicting market movements.
-    * It include:
-        * Training and evaluating different machine learning models on the prepared data.
-        * Selecting the best performing model for predicting future market movements.
+   
+   It include:
+        - Training and evaluating different machine learning models on the prepared data.
+        - Selecting the best performing model for predicting future market movements.
 
 ## 3. Backtesting Process (backtesting.ipynb):
    This notebook focuses on evaluating the effectiveness of the prediction model in a simulated trading environment.
-    * It include:
-        * Defining trading rules based on the model's predictions.
-        * Backtesting the trading strategy on historical data to assess its profitability and risk profile.
-        * Analyzing metrics such as win rate, Sharpe Ratio, and Calmar Ratio to evaluate the strategy's performance.
+   It include:
+        - Defining trading rules based on the model's predictions.
+        - Backtesting the trading strategy on historical data to assess its profitability and risk profile.
+        - Analyzing metrics such as win rate, Sharpe Ratio, and Calmar Ratio to evaluate the strategy's performance.
 
 
 
@@ -40,6 +42,6 @@ This project explores the potential for identifiaction stock market regime and p
 4. Run Notebooks: Open each Jupyter Notebook individually and execute the code cells to perform the data preparation, model training, and backtesting analysis.
 Note:
 
-* This project uses Jupyter Notebooks which require a Python environment with relevant libraries installed. 
-* Make sure you have Jupyter Notebook installed (`pip install jupyter`) to run the notebooks.
+- This project uses Jupyter Notebooks which require a Python environment with relevant libraries installed. 
+- Make sure you have Jupyter Notebook installed (`pip install jupyter`) to run the notebooks.
 
